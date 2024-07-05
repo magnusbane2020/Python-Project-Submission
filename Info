@@ -1,7 +1,0 @@
-Explicații
-Modulul driver_setup.py: Conține funcția pentru configurarea driverului WebDriver.
-Modulul authentication.py: Conține funcția pentru autentificare.
-Modulul cookie_handling.py: Conține funcția pentru acceptarea cookie-urilor.
-Modulul navigation.py: Conține funcții pentru navigarea pe pagini și acțiuni personalizate.
-Modulul midway_automation.py: Definirea clasei principale MidwayAutomation care utilizează funcțiile din modulele de mai sus.
-Modulul main.py: Scriptul principal care încarcă datele din Excel, inițializează obiectul MidwayAutomation și execută pașii necesari.
